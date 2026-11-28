@@ -2,11 +2,11 @@
 Mata Kuliah Machine Learning (SI-5203), Sistem Informasi, Universitas Tanjungpura
 
 ## Anggota dan peran
-- Nay: Project Lead & Business Analyst
-- Lub: Data Engineer (EDA & Praproses)
-- AI: Modeling Engineer
-- Adel: Evaluator & Analyst
-- Ale: Deployment & Presentation Lead
+- Lubna: Project Lead & Business Analyst
+- Nayla: Data Engineer (EDA & Praproses)
+- Asyah: Modeling Engineer
+- Adela: Evaluator & Analyst
+- Aliyah: Deployment & Presentation Lead
 
 ## Dataset
 https://www.kaggle.com/code/dickbrown/groceries-dataset
