@@ -9,7 +9,7 @@ Mata Kuliah Machine Learning (SI-5203), Sistem Informasi, Universitas Tanjungpur
 - Ale: Deployment & Presentation Lead
 
 ## Dataset
-(isi link Kaggle dan dataset yang dipilih)
+https://www.kaggle.com/code/dickbrown/groceries-dataset
 
 ## Cara menjalankan aplikasi
 pip install -r requirements.txt
