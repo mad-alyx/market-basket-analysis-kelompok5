@@ -3,8 +3,3 @@ __pycache__/
 *.pyc
 .venv/
 .ipynb_checkpoints/
-
-# Data besar (jangan di-commit)
-data/*
-!data/.gitkeep
-*.csv

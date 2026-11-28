@@ -4,7 +4,7 @@ Mata Kuliah Machine Learning (SI-5203), Sistem Informasi, Universitas Tanjungpur
 ## Anggota dan peran
 - Lubna: Project Lead & Business Analyst
 - Nayla: Data Engineer (EDA & Praproses)
-- Asyah: Modeling Engineer
+- Aisyah: Modeling Engineer
 - Adela: Evaluator & Analyst
 - Aliyah: Deployment & Presentation Lead
 
